@@ -6,7 +6,7 @@ Created a button that changes the text color
 ### App Walk-though
 
 
-<img src="https://gph.is/g/4ARADR0" width=200><br>
+<img src="https://media.giphy.com/media/W3KCQmT7r3USJyRwvD/giphy.gif" width=200><br>
 
 
 ### Required User Stories
